@@ -18,27 +18,27 @@ markdown_extensions:
 nav:
   - Forside: index.md
   - Kapitler:
-      - "Kapitel 1: Kapitel 1 – Hvad er et objekt?": kapitel/01.md
-      - "Kapitel 2: Kapitel 2 – Ansvar og indkapsling": kapitel/02.md
-      - "Kapitel 3: Kapitel 3 – Invariants": kapitel/03.md
-      - "Kapitel 4: Kapitel 4 – Konstruktører og gyldig tilstand": kapitel/04.md
-      - "Kapitel 5: Kapitel 5 – Metoder og kontrolstrukturer": kapitel/05.md
-      - "Kapitel 6: Kapitel 6 – Exceptions som designværktøj": kapitel/06.md
-      - "Kapitel 7: Kapitel 7 – Immutable vs mutable objekter": kapitel/07.md
-      - "Kapitel 8: Kapitel 8 – Association, aggregation og composition": kapitel/08.md
-      - "Kapitel 9: Kapitel 9 – Samarbejdende objekter": kapitel/09.md
-      - "Kapitel 10: Kapitel 10 – Domænemodellering": kapitel/10.md
-      - "Kapitel 11: Kapitel 11 – At teste som tænkning": kapitel/11.md
-      - "Kapitel 12: Kapitel 12 – Simpel teststruktur": kapitel/12.md
-      - "Kapitel 13: Kapitel 13 – Refactoring og code smells (intro)": kapitel/13.md
-      - "Kapitel 14: Kapitel 14 – MyDate – en robust dato": kapitel/14.md
-      - "Kapitel 15: Kapitel 15 – Clock – repræsentationsvalg": kapitel/15.md
-      - "Kapitel 16: Kapitel 16 – Klassediagrammer": kapitel/16.md
-      - "Kapitel 17: Kapitel 17 – Fra tekst til model": kapitel/17.md
-      - "Kapitel 18: Kapitel 18 – AI som sparringspartner": kapitel/18.md
-      - "Kapitel 19: Kapitel 19 – At forklare sit design": kapitel/19.md
+      - "Kapitel 1: Hvad er et objekt?": kapitel/01.md
+      - "Kapitel 2: Ansvar og indkapsling": kapitel/02.md
+      - "Kapitel 3: Invariants": kapitel/03.md
+      - "Kapitel 4: Konstruktører og gyldig tilstand": kapitel/04.md
+      - "Kapitel 5: Metoder og kontrolstrukturer": kapitel/05.md
+      - "Kapitel 6: Exceptions som designværktøj": kapitel/06.md
+      - "Kapitel 7: Immutable vs mutable objekter": kapitel/07.md
+      - "Kapitel 8: Association, aggregation og composition": kapitel/08.md
+      - "Kapitel 9: Samarbejdende objekter": kapitel/09.md
+      - "Kapitel 10: Domænemodellering": kapitel/10.md
+      - "Kapitel 11: At teste som tænkning": kapitel/11.md
+      - "Kapitel 12: Simpel teststruktur": kapitel/12.md
+      - "Kapitel 13: Refactoring og code smells (intro)": kapitel/13.md
+      - "Kapitel 14: MyDate – en robust dato": kapitel/14.md
+      - "Kapitel 15: Clock – repræsentationsvalg": kapitel/15.md
+      - "Kapitel 16: Klassediagrammer": kapitel/16.md
+      - "Kapitel 17: Fra tekst til model": kapitel/17.md
+      - "Kapitel 18: AI som sparringspartner": kapitel/18.md
+      - "Kapitel 19: At forklare sit design": kapitel/19.md
   - Bilag:
-      - "Bilag A: Bilag A – Java-syntaks quick reference": bilag/A.md
-      - "Bilag B: Bilag B – IntelliJ quick guide": bilag/B.md
-      - "Bilag C: Bilag C – Scanner og console I/O": bilag/C.md
-      - "Bilag D: Bilag D – JUnit mini-guide": bilag/D.md
+      - "Bilag A: Java-syntaks quick reference": bilag/A.md
+      - "Bilag B: IntelliJ quick guide": bilag/B.md
+      - "Bilag C: Scanner og console I/O": bilag/C.md
+      - "Bilag D: JUnit mini-guide": bilag/D.md
