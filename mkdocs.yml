@@ -1,4 +1,5 @@
 site_name: "PRO1 Kompendium"
+site_url: https://sva-via.github.io/PRO1-kompendium/
 site_description: "Kompendium – kapitler 1-19 + bilag"
 theme:
   name: material
