@@ -3,7 +3,7 @@
 ## Hurtig start
 
 - **Start her:** [Kapitel 1 – Hvad er et objekt?](kapitel/01.md)
-- **Bilag:** [Bilag A – Hurtig reference til Java-syntaks](bilag/A.md)
+- **Bilag:** [Bilag A – Hurtig reference til Java-syntaks](kapitel/01.md)
 
 ## Introduktion
 
