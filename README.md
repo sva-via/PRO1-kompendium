@@ -1,5 +1,7 @@
-# PRO1 Kompendium
+# PRO1-kompendium
 
-Dette repository indeholder PRO1-kompendiet bygget med MkDocs.
+Dansk udgave.
 
-Siden publiceres med GitHub Pages fra branchen `gh-pages`.
+For the English edition see:
+
+https://github.com/sva-via/PRO1-Compendium
