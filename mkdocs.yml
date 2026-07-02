@@ -26,3 +26,26 @@ nav:
   - Forside: index.md
   - Kapitler:
       - "Kapitel 1: Hvad er et objekt?": kapitel/01.md
+      - "Kapitel 2: Strings, referencer og null": kapitel/02.md
+      - "Kapitel 3: Klasser": kapitel/03.md
+      - "Kapitel 4: Selektion": kapitel/04.md
+      - "Kapitel 5: Invarianter": kapitel/05.md
+      - "Kapitel 6: Responsibility og encapsulation": kapitel/06.md
+      - "Kapitel 7: Arrays": kapitel/07.md
+      - "Kapitel 8: Løkker": kapitel/08.md
+      - "Kapitel 9: ArrayList": kapitel/09.md
+      - "Kapitel 10: Associationer": kapitel/10.md
+      - "Kapitel 11: Associationer – en-til-mange": kapitel/11.md
+      - "Kapitel 12: Nedarvning": kapitel/12.md
+      - "Kapitel 13: Design af nedarvning": kapitel/13.md
+      - "Kapitel 14: Interfaces": kapitel/14.md
+      - "Kapitel 15: Persistens": kapitel/15.md
+      - "Kapitel 16: GUI (Trin 1: Layout)": kapitel/16.md
+      - "Kapitel 17: GUI (Trin 2: Data og hændelser)": kapitel/17.md
+      - "Kapitel 18: GUI (Trin 3: ViewState)": kapitel/18.md
+  - Bilag:
+      - "Bilag A: Hurtig reference til Java-syntaks": bilag/A.md
+      - "Bilag B: Hurtig guide til IntelliJ IDEA": bilag/B.md
+      - "Bilag C: Scanner og konsol-I/O": bilag/C.md
+      - "Bilag D: Mini-guide til JUnit": bilag/D.md
+      - "Bilag E: Spec2JUnit – AI som sparringspartner til test": bilag/E.md
