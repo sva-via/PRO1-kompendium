@@ -4,4 +4,4 @@ Dansk udgave.
 
 For the English edition see:
 
-https://github.com/sva-via/PRO1-Compendium
+https://sva-via.github.io/PRO1-Compendium
